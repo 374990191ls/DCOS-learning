@@ -99,7 +99,7 @@ ignore:
 # theme: jekyll-theme-architect
 # theme: landscape
 # theme: next
-theme: obsidian
+theme: jekyll-theme-hacker
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
