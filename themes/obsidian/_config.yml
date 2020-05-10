@@ -100,7 +100,7 @@ autoplay: false
 
 # default mp3 file
 mp3:
-  - statics/chengdu.mp3
+  - statics/Andrew Belle - Back for Christmas.mp3
 
 # ---------------------------------------------------------------
 # Plugins
